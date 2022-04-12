@@ -10,7 +10,7 @@ IR correction removes the
 
 IR correction is encouraged, but is ***not*** required for spectra submitted to AVSpec.
 
-Even for purely peresonal use, there is no need to IR correct spectra which are used only for calibration purposes.
+Even for purely personal use, there is no need to IR correct spectra which are used only for calibration purposes.
 
 ## How often should you create IR curves?
 
