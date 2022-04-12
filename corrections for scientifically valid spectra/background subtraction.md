@@ -1,10 +1,10 @@
 # Background subtraction
 
-Background subtraction removes light pollution, airglow, and scattered light[^1] from your spectrum. It's a required step before instrument response correction.
+Background subtraction removes light pollution, airglow, and scattered light[^1] from your spectrum. It's a required step before [instrument response correction](instrument%20response%20correction.md).
 
 ## Why do background subtraction?
 
-If you don't subtract the background sky light from your spectra, all of the pixels will appear brighter than they should. This might not be so bad if all of the pixels were brightened by the same amount, but unfortunately, the amount of background contamination almost always varies across the field of view.[^2] Left uncorrected, these variations can distort the features of your spectrum, and even introduce false features.
+If you don't subtract the background sky light from your spectra, all of the pixels will appear brighter than they should. If every pixel were brightened by the same amount, this might not be so bad, but unfortunately, the amount of background contamination almost always varies across the field of view.[^2] Left uncorrected, these variations can distort the features of your spectrum, and even introduce false features.
 
 Even if the background is completely even across the field of view, background subtraction is required for both the target spectrum ***and the reference spectrum*** before you can apply instrument response correction. If you don't apply background subtraction before instrument response correction, your spectra will come out distorted, sometimes subtly...
 
