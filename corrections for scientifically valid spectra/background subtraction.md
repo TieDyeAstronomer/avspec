@@ -31,4 +31,6 @@ No matter which method you use, **remember:** Your goal is to measure the light 
 
 ### Rspec (manual, clean)
 
+## Footnotes
+
 [^1]: Background subtraction usually does not include dark current, which you should remove separately using [darks](darks.md) before you start this step. That said, if your dark current is low enough, and very smooth in its distribution across the frame (as in [drift scanning](../steps%20to%20capture%20a%20slitless%20spectrum/extra%20-%20drift%20scanning.md)), you can skip applying darks; background subtraction will remove the dark current to a satisfactory degree.
