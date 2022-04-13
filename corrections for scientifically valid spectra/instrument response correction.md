@@ -4,13 +4,13 @@ Everything that you can see, from the lenses and mirrors in your telescope to th
 
 ## Why do IR correction?
 
-IR correction removes the 
+IR correction removes the unique effects of your equipment and observing site, giving it the same shape that a theoretical 'perfect observer' in space would see. Once you've IR corrected your spectrum, you can easily compare it to other IR corrected spectra, and/or measure the relative brightnesses of different points on the spectrum.
 
 ## Which spectra need IR correction?
 
 IR correction is encouraged, but is ***not*** required for spectra submitted to AVSpec.
 
-Even for purely personal use, there is no need to IR correct spectra which are used only for calibration purposes.
+There is no scientific need to IR correct spectra which are used only for calibration purposes.
 
 ## How often should you create IR curves?
 
@@ -22,13 +22,11 @@ You probably don't switch telescopes very often, but the atmosphere is constantl
 
 ### The bottom line:
 
-To create an IR curve, you will observe a standard star, then compute the difference between what you observed and what the spectrum should theoretically look like.
+To create an IR curve, you will observe a [standard star](../selecting%20a%20standard%20star.md), then compute the difference between what you observed and what the spectrum should theoretically look like.
+
+- Avoid [overfitting](../donts/overfitting.md), which can distort and even remove real features in the spectrum.
 
 To apply the IR curve, you will divide your target spectrum by the IR curve.
-
-For help choosing a standard star, see [Selecting a standard star](../selecting%20a%20standard%20star.md).
-
-- Avoid [overfitting](../donts/overfitting.md), which can result in smoothing out real features in the spectrum.
 
 ### Bass
 

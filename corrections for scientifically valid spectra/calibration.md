@@ -4,7 +4,7 @@ By comparing your target spectrum to a source with known wavelengths, you can as
 
 ## Why do calibration?
 
-The calibration sets the x-axis of a spectrum. Once your spectrum is calibrated, you can identify features, measure velocities and equivalent widths, and easily compare your spectra to others.
+The calibration sets the x-axis of a spectrum. Once your spectrum is calibrated, you can identify features, measure velocities and equivalent widths, and easily compare  to other spectra.
 
 ## Which spectra need to be calibrated?
 

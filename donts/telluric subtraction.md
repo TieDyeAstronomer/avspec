@@ -4,7 +4,7 @@ Some software packages for astronomical spectroscopy make it possible to subtrac
 
 ## Why not?
 
-AVSpec's validation of submitted spectra relies on the presence of telluric absorption lines, so that we can check the [calibration](../corrections%20for%20scientifically%20valid%20spectra/calibration.md) independently of radial velocity.[^1] Though it is not always possible to use telluric lines since they do not exist at all wavelengths, handling spectra which are missing telluric lines makes the validator's jobs harder, and validation will proceed faster if tellurics are available.
+AVSpec's validation of submitted spectra relies on the presence of telluric absorption lines, so that we can check the [calibration](../corrections%20for%20scientifically%20valid%20spectra/calibration.md) independently of radial velocity.[^1] Though it is not always possible to use telluric lines since they do not exist at all wavelengths, handling spectra which are missing telluric lines makes the validators' jobs harder, and validation will proceed faster if tellurics are available.
 
 ## Telluric subtraction through overfitting
 
