@@ -1,12 +1,12 @@
 # Respect the data
 
-Do your due diligence, and process each spectrum fully, but then **leave it alone**. Resist the urge to tweak endlessly and try tricks such as a sharpening or noise reduction to improve your result. If your spectrum is too noisy, the best solution is more data!
-
-Never apply any sort of AI enhancement or photographic manipulation to a spectrum which will be used scientifically. Remember: **you can't create information that isn't there.**
+Do your due diligence, and process each spectrum fully, but then **leave it alone**. Resist the urge to tweak endlessly and try tricks such as a sharpening or noise reduction to improve your result. If your spectrum is too noisy, there is a simple and best solution: shoot more data!
 
 # Avoid small-scale alterations
 
 In general, the steps you take while processing the spectrum should act on the spectrum as a whole. The amount of correction applied may sometimes vary across the field of view (as in [IR correction](../corrections%20for%20scientifically%20valid%20spectra/instrument%20response%20correction.md)), but it should do so smoothly and gradually. Any sudden discontinuities in your calibrations are a warning sign for underlying issues with the data.
+
+Never apply any sort of AI enhancement or photographic manipulation to a spectrum which will be used scientifically. Remember: **you can't create information that isn't there.**
 
 # Leave analysis to the user
 
