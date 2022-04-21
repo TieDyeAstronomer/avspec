@@ -14,9 +14,9 @@ All spectra must be calibrated to be useful.
 
 You **must** create a new calibration if your equipment changes, even only slightly. Otherwise, the answer is...
 
-**Slitless:** Yes! However, because the spectrum can move around in the field of view, you must re-align the calibration to each individual spectrum using a known reference point.[^2]
+***[Slitless:](../equipment%20tips/slit%20vs%20slitless.md)*** Yes! However, because the spectrum can move around in the field of view, you must re-align the calibration to each individual spectrum using a known reference point.[^2]
 
-**Slit:** Yes! As long as you do not move the grating or camera, and your spectrograph does not flex, you can reuse your calibration without modifying or realigning it.[^3]
+***[Slit:](../equipment%20tips/slit%20vs%20slitless.md)*** Yes! As long as you do not move the grating or camera, and your spectrograph does not flex, you can reuse your calibration without modifying or realigning it.[^3]
 
 ## Tutorial
 
