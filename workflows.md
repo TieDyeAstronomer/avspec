@@ -1,6 +1,6 @@
 # WIP outline
 
-Whereas the other individual documents will have tutorials with the details on "how to do [x] procedure", this document will present an overview of all the steps required/recommended for producing a specrum, i.e. an entire "workflow". When a document is available with extra information about a given step, it should be linked.
+Whereas the other individual documents will have tutorials with the details on "how to do [x] procedure", this document will present a general overview of all the steps required/recommended for producing a specrum, i.e. an entire "workflow". When a document is available with extra information about a given step, it should be linked.
 
 ## Example workflow
 
