@@ -35,10 +35,10 @@ The guidelines below are suggested for discussion. For a few of them, I've provi
 - Binning
 - Rescaling the y-axis[^5]
 - Flux calibration
-- Mosaicing
 
 ## Banned
 
+- Mosaicing
 - Median filtering[^6]
 - Noise reduction (*any method but binning*)
 - Sharpening
