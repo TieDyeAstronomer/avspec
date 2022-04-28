@@ -2,7 +2,9 @@
 
 ## Framing / Context
 
-- [ ] Review the existing spectroscopic manual, and identify where it can be used instead of new content
+- [x] Review the existing spectroscopic manual, and identify where it can be used instead of new content
+- The *AAVSO Guide To Getting Started in Spectroscopy v3.1* already covers some of the topics in the [Equipment tips](equipment%20tips) section, and all of the topics in the [Steps to captures a slit spectrum](steps%20to%20capture%20a%20slit%20spectrum) section.[^1]
+- The *AAVSO Guide To Getting Started in Spectroscopy v3.1* will need to be updated with the new AVSpec guidelines.
 - [ ] Restructure this repository to best serve a user asking "How do I tell if this spectrum is good?"
 
 ## Writing content
@@ -40,3 +42,5 @@ Which term should we use when discussing the procedure of dividing a spectrum by
 
 - Is used by at least a few professional astronomers (Q: how widespread?)
 - Distinguishes from another procedure which is also sometimes referred to as "normalization" (the procedure of rescaling the entire y-axis without changing the shape of the spectrum)
+
+[^1]: I've updated those files with notes about which sections of the Guide contain relevant info, and will avoid duplicating the content within the Guide. If I attempt to write AVSpec-specific content for those topics, it will only be after I've finished everything else in this repository.

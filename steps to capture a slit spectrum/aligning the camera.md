@@ -1,0 +1,1 @@
+Section 6.1.1 of the AAVSO Guide To Getting Started in Spectroscopy v3.1 completely covers this topic.
