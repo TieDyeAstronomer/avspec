@@ -1,6 +1,11 @@
 # To-do
 
-## Writing
+## Framing / Context
+
+- [ ] Review the existing spectroscopic manual, and identify where it can be used instead of new content
+- [ ] Restructure this repository to best serve a user asking "How do I tell if this spectrum is good?"
+
+## Writing content
 
 I'll attack the task of writing in this order (**bold**==in progress)
 
