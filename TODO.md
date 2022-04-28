@@ -15,9 +15,8 @@ I'll attack the task of writing in this order (**bold**==in progress)
 - [ ] **[Corrections for Scientifically Valid Spectra](corrections%20for%20scientifically%20valid%20spectra) (except for the tutorials)**
 - [ ] [Types of aberrations](types%20of%20aberrations)
 - [ ] Tutorials for the [Corrections for Scientifically Valid Spectra](corrections%20for%20scientifically%20valid%20spectra) section
-- [ ] [Equipment tips](equipment%20tips)
 - [ ] [Steps to capture a slitless spectrum](steps%20to%20capture%20a%20slitless%20spectrum)
-- [ ] [Steps to capture a slit spectrum](steps%20to%20capture%20a%20slit%20spectrum)
+- [ ] [Equipment tips](equipment%20tips)[^2]
 
 ## Graphics
 
@@ -44,3 +43,5 @@ Which term should we use when discussing the procedure of dividing a spectrum by
 - Distinguishes from another procedure which is also sometimes referred to as "normalization" (the procedure of rescaling the entire y-axis without changing the shape of the spectrum)
 
 [^1]: I've updated those files with notes about which sections of the Guide contain relevant info, and will avoid duplicating the content within the Guide. If I attempt to write AVSpec-specific content for those topics, it will only be after I've finished everything else in this repository.
+
+[^2]: Some of these topics are already covered in the *AAVSO Guide To Getting Started in Spectroscopy v3.1*, so I will skip those at least initially; see footnote #1.
