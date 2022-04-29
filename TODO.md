@@ -23,25 +23,6 @@ I'll attack the task of writing in this order (**bold**==in progress)
 - [ ] Graphics necessary for the written material (noted in the documents with "IMAGE:" placeholders)
 - [ ] [Reference Spectra](reference%20spectra)
 
-## Terminology which needs to be officially defined
-
-I'll need to take these questions to the group to find out if there are strong opinions either way on which terms we should use for certain scientific procedures.
-
-### "Normalization" vs. "Continuum rectification"?
-
-Which term should we use when discussing the procedure of dividing a spectrum by its own continuum in order to flatten it?
-
-#### "Normalization"
-
-- Less intimidating
-- Easier to remember for most amateurs
-- Is the term in broad use in the amateur community
-
-#### "Continuum rectification"
-
-- Is used by at least a few professional astronomers (Q: how widespread?)
-- Distinguishes from another procedure which is also sometimes referred to as "normalization" (the procedure of rescaling the entire y-axis without changing the shape of the spectrum)
-
 [^1]: I've updated those files with notes about which sections of the Guide contain relevant info, and will avoid duplicating the content within the Guide. If I attempt to write AVSpec-specific content for those topics, it will only be after I've finished everything else in this repository.
 
 [^2]: Some of these topics are already covered in the *AAVSO Guide To Getting Started in Spectroscopy v3.1*, so I will skip those at least initially; see footnote #1.
