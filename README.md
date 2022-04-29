@@ -6,5 +6,7 @@ This is a work-in-progress collection of documents which I have been writing to 
 
 [Click here to see current progress & my to-do list](TODO.md).
 
+[Click here to see a list of questions I have for the AVSpec working group.](terminology.md)
+
 ## Suggestions?
 If you have any comments, questions, or suggestions, please let me know! I can be reached either via Slack (preferred), or via email at lherrington@aavso.org.
