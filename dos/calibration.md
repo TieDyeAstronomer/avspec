@@ -1,10 +1,10 @@
 # Calibration[^1]
 
-By comparing your target spectrum to a source with known wavelengths, you can assign wavelength values to the pixels in a spectrum. This process is known as calibration.
+By comparing your target spectrum to a source with known wavelengths, you can label each pixel in your spectrum with a wavelength value. This process is known as calibration.
 
 ## Why do calibration?
 
-The calibration sets the x-axis of a spectrum. Once your spectrum is calibrated, you can identify features, measure velocities and equivalent widths, and easily compare  to other spectra.
+Calibration aligns your spectra to a universal wavelength scale. Once your spectrum is calibrated, you can identify features, measure velocities and equivalent widths, and easily compare to other spectra.
 
 ## Which spectra need to be calibrated?
 

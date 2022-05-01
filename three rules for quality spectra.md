@@ -1,19 +1,24 @@
 # Three rules for quality spectra
 
-## Follow standard procedures
+## 1: Follow standard procedures
 
+The AAVSO has defined a list of standard procedures for processing spectra:
 
-## Respect the data
+[AVSpec data reduction guidelines](avspec%20data%20reduction%20guidelines.md)
+
+By applying these standard procedures, with care and thoughtfulness for the physical realities these operations represent, you can consistently produce spectra which are just as precise as those from professional observatories.
+
+## 2: Respect the data
 
 Do your due diligence, and process each spectrum fully, but then **leave it alone**. Resist the urge to tweak endlessly and try tricks such as a sharpening or noise reduction to improve your result. If your spectrum is too noisy, there is a simple and best solution: shoot more data!
+
+Never apply any sort of AI enhancement or photographic manipulation to a spectrum which will be used scientifically. Remember: **you can't create information that isn't there.**
 
 ### Avoid small-scale alterations
 
 In general, the steps you take while processing the spectrum should act on the spectrum as a whole. The amount of correction applied may sometimes vary across the field of view (as in [IR correction](../corrections%20for%20scientifically%20valid%20spectra/instrument%20response%20correction.md)), but it should do so smoothly and gradually. Any sudden discontinuities in your calibrations are a warning sign for underlying issues with the data.
 
-Never apply any sort of AI enhancement or photographic manipulation to a spectrum which will be used scientifically. Remember: **you can't create information that isn't there.**
-
-## Leave analysis to the end user
+## 3: Leave analysis to the end user
 
 AVSpec collects data with specific, well-described processing steps applied. We do not accept spectra with any extra analysis steps applied ([normalization](normalization.md), [heliocentric correction](radial%20velocity%20correction.md), [telluric removal](telluric%20subtraction.md), etc.), for multiple reasons:
 

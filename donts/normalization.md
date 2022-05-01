@@ -6,10 +6,10 @@ The term "normalization" can have multiple meanings.[^1] When we refer to normal
 
 This process is also known as "continuum rectification".
 
-# Why not?
+## Why not?
 
 1. Many studies require unnormalized spectra.
-2. Normalization is a type of analysis, **not** a processing step. Remember [Rule #3: Leave analysis to the user](in%20general.md#Leave-analysis-to-the-user).
+2. Normalization is a type of analysis, ***not*** a processing step. It breaks [Rule #3: Leave analysis to the user](in%20general.md#Leave-analysis-to-the-user).
 3. Normalization changes the shape of the spectrum. Unlike IR correction, this process is subjective, and no two observers will normalize a spectrum in the same way.
 4. Without the original continuum curve, normalization is irreversible; and without seeing the original spectrum, there is no way to judge how 'strong' the normalization was. If small features were obliterated during the normalization, the end user will have no way to know.
 
