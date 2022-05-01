@@ -36,3 +36,22 @@ Which term should we use when discussing the procedure of dividing a spectrum by
 
 - Is used by at least a few professional astronomers (does anyone know how widespread?)
 - Distinguishes from another procedure which is also sometimes referred to as "normalization" (the procedure of rescaling the entire y-axis without changing the shape of the spectrum)
+
+## Writing as an authority: "AAVSO" vs "AVSpec"?
+
+When referring to decisions which have been made about submission criteria, should we refer to these decisions as having been made by "the AAVSO" or "AVSpec"? Put another way: who should be the 'authority' referred to consistently throughout the documentation?
+
+### AAVSO
+
+>*"The AAVSO neither recommends nor forbids y-axis rescaling."*
+
+- &#10003; Makes AVSpec sound more clearly like a piece of tech run by the AAVSO.
+- &#10007; Might cause the docs to sound more ambiguous.
+  - "AVSpec" will still be used to refer to the database/website itself, so someone more unfamiliar with the AAVSO might wonder if the example sentence above applies only to AVSpec, or to many projects run by the AAVSO, or to other projects but not AVSpec...
+
+### AVSpec
+
+>*"AVSpec neither recommends nor forbids y-axis rescaling."*
+
+- &#10003; Would unify the voice of the documentation, making it clear that everything referred to definitely applies to AVSpec.
+- &#10007; Makes AVSpec sounds more like an independent project, possibly with its own staff.
