@@ -2,7 +2,7 @@
 
 I need input from the AVSpec working group to find out if there are strong opinions either way on which terms we should use throughout these documents.
 
-## "Researcher" vs. "End user"?
+## 1. "Researcher" vs. "End user"?
 
 Which term should we use to refer to a user of AVSpec's data?
 
@@ -18,7 +18,7 @@ Which term should we use to refer to a user of AVSpec's data?
 
 - Reinforces the fact that anyone (including you!), can analyze data from AVSpec.
 
-## "Normalization" vs. "Continuum rectification"?
+## 2. "Normalization" vs. "Continuum rectification"?
 
 Which term should we use when discussing the procedure of dividing a spectrum by its own continuum in order to flatten it?
 
@@ -37,7 +37,7 @@ Which term should we use when discussing the procedure of dividing a spectrum by
 - Is used by at least a few professional astronomers (does anyone know how widespread?)
 - Distinguishes from another procedure which is also sometimes referred to as "normalization" (the procedure of rescaling the entire y-axis without changing the shape of the spectrum)
 
-## Writing as an authority: "AAVSO" vs "AVSpec"?
+## 3. Writing as an authority: "AAVSO" vs "AVSpec"?
 
 When referring to decisions which have been made about submission criteria, should we refer to these decisions as having been made by "the AAVSO" or "AVSpec"? Put another way: who should be the 'authority' referred to consistently throughout the documentation?
 
