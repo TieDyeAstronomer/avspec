@@ -6,7 +6,7 @@ The AAVSO has defined a list of standard procedures for processing spectra:
 
 [AVSpec data reduction guidelines](avspec%20data%20reduction%20guidelines.md)
 
-By applying these standard procedures, with care and thoughtfulness for the physical realities these operations represent, you can consistently produce spectra which are just as precise as those from professional observatories.
+By following these guidelines, with care and thoughtfulness for the physical realities these operations represent, you can consistently produce spectra which are just as precise as those from professional observatories.
 
 ## 2: Respect the data
 
