@@ -10,7 +10,9 @@ Calibration aligns your spectra to a universal wavelength scale. Once your spect
 
 All spectra must be calibrated to be useful.
 
-## Can you reuse a calibration?
+## FAQ
+
+### 1. Can I reuse a calibration?
 
 You **must** create a new calibration if your equipment changes, even only slightly. Otherwise, the answer is...
 
@@ -18,7 +20,7 @@ You **must** create a new calibration if your equipment changes, even only sligh
 
 ***[Slit:](../equipment%20tips/slit%20vs%20slitless.md)*** Yes! As long as you do not move the grating or camera, and your spectrograph does not flex, you can reuse your calibration without modifying or realigning it.[^4]
 
-## Should I use a linear or nonlinear calibration?
+### 2. Should I use a linear or nonlinear calibration?
 
 You should use a **linear** calibration if...
 
@@ -30,13 +32,13 @@ You should use a **nonlinear** calibration if...
 - You are using a slitless grating **with** a corrective prism.
 - You are using a slit spectrograph.
 
-## What do I need to create a calibration?
+### 3. What do I need to create a calibration?
 
-### Slitless gratings & low resolution slit spectrographs
+#### Slitless gratings & low resolution slit spectrographs:
 
 You can use almost any bright star to create a calibration. [Standard stars](../selecting%20a%20standard%20star.md) such as Vega are a great choice, because their continuums are smooth, making it easy to identify calibration features. (As a bonus, you can also use the standard star spectrum to create an [IR curve](instrument%20response%20correction.md).)
 
-### High resolution slit spectrographs
+#### High resolution slit spectrographs:
 
 A calibration lamp is the best way to create a calibration for a high resolution slit spectrograph.
 
