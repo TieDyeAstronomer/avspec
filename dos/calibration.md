@@ -1,6 +1,6 @@
 # Calibration
 
-By comparing your target spectrum to a source with known wavelengths, you can label each pixel in your spectrum with a wavelength. This process is known as calibration[^1].
+By comparing your spectrum to a source with known wavelengths, you can label each pixel in your spectrum with a wavelength. This process is known as calibration[^1].
 
 ## Why do calibration?
 
@@ -40,9 +40,7 @@ You can use almost any bright star to create a calibration. [Standard stars](../
 
 #### High resolution slit spectrographs:
 
-A calibration lamp is the best way to create a calibration for a high resolution slit spectrograph.
-
-If your spectrum was taken in the red or infrared, you can also create a high quality calibration using [telluric](../reference%20spectra/tellurics.md) lines.
+A calibration lamp is the best way to create a calibration for a high resolution slit spectrograph. If your spectrum was taken in the red or infrared, you can also create a high quality calibration using [telluric](../reference%20spectra/tellurics.md) lines.
 
 You should not use a stellar spectrum to create your calibration, unless the star has a known radial velocity which is far too small for your spectrograph to detect.
 
