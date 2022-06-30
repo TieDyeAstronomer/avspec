@@ -42,7 +42,7 @@ You can use almost any bright star to create a calibration. [Standard stars](../
 
 A calibration lamp is the best way to create a calibration for a high resolution slit spectrograph. If your spectrum was taken in the red or infrared, you can also create a high quality calibration using [telluric](../reference%20spectra/tellurics.md) lines.
 
-You should not use a stellar spectrum to create your calibration, unless the star has a known radial velocity which is far too small for your spectrograph to detect.
+You should avoid using a stellar spectrum to create your calibration.[^5]
 
 ## Tutorial
 
@@ -63,3 +63,5 @@ Your goal is to accurately convert horizontal pixel numbers to wavelength in Ang
 [^3]: The zero-order star image can be a useful reference point for realigning an existing calibration, as can the [telluric](../reference%20spectra/tellurics.md) O2 A bandhead.
 
 [^4]: Reusing a calibration will not work if your spectrograph flexes or settles with altitude, so many people opt to reshoot their calibration frames frequently, particularly when working at high resolutions where shifts of a fraction of an angstrom are visible.
+
+[^5]: The use of stellar spectra to create calibrations for a high resolution slit spectrograph is discouraged due to the high degree of care which must be taken to remove all observed velocity effects. If you must use a stellar spectrum, choose a star which has a known radial velocity which is far too small for your spectrograph to detect, and apply [heliocentric correction](../donts/radial%20velocity%20correction.md) to account for the Earth's motion around the Sun (but remember not to use heliocentric correction on your target spectrum).
