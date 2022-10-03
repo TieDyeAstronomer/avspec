@@ -11,6 +11,10 @@ I'll attack the task of writing in this order (**bold**==in progress)
 
 After the above sections are complete, I will revisit the [Equipment tips](z_low%20priority/equipment%20tips), [Steps to capture a slitless spectrum](z_low%20priority/steps%20to%20capture%20a%20slitless%20spectrum), and [Steps to capture a slit spectrum](z_low%20priority/steps%20to%20capture%20a%20slit%20spectrum) sections, and re-evaluate whether these articles are necessary, or whether we can simply refer to content available elsewhere for these topics.[^2]
 
+Finally, though not included in these Github markdown pages, the AVSpec webpages should be examined to determine where updates are appropriate. In particular:
+
+- [ ] "Upload Spectra" page should be looked at to determine whether it needs more helpful info (like a link to these docs)
+
 ## Graphics
 
 - [ ] Graphics necessary for the written material (noted in the documents with "IMAGE:" placeholders)
