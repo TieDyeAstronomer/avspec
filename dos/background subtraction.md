@@ -6,7 +6,7 @@ Background subtraction removes light pollution, airglow, and scattered light[^1]
 
 If you don't subtract the background sky light from your spectra, all of the pixels will appear brighter than they should. If every pixel were brightened by the same amount, this might not be so bad, but unfortunately, the amount of background contamination almost always varies across the field of view.[^2] Left uncorrected, these variations can distort your spectrum, and even introduce false features.
 
-Even if the background is completely even across the field of view, background subtraction is required for both the target spectrum ***and the reference spectrum*** before you can apply instrument response correction. If you don't apply background subtraction before instrument response correction, your spectra will come out distorted, sometimes subtly...
+Even if the background is completely even across the field of view, background subtraction is required for both the target spectrum ***and the reference spectrum*** before you can apply instrument response correction. If you don't apply background subtraction before instrument response correction, the baseline will be off. This will cause your spectra to come out distorted, sometimes subtly...
 
 ###### IMAGE: a subtle example of continuum aberrations due to lack of background subtraction
 
@@ -19,7 +19,7 @@ Even if the background is completely even across the field of view, background s
 - All target spectra
 - All reference star spectra used for the generation of IR curves
 
-Spectra which are used only for wavelength calibration, and nothing else, don't need to be background subtracted.
+Spectra which are used **only** for creating a wavelength calibration, and nothing else, don't need to be background subtracted.
 
 ## Tutorial
 
@@ -28,8 +28,8 @@ Spectra which are used only for wavelength calibration, and nothing else, don't 
 Your goal is to measure the light coming from the background sky, then subtract that light from the spectrum, without accidentally introducing false features.
 
 - Avoid [overfitting](../donts/overfitting.md) any features in the background.
-- Avoid including light from the target spectrum in the background sample.
-- Avoid including contaminating background stars in the background sample. (*slitless only*)
+- Don't include any light from the target spectrum in your background sample.
+- Don't include any other stars or spectra in your background sample.
 
 ### BASS
 
