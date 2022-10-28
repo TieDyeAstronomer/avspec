@@ -15,3 +15,5 @@ Mosaicing is not allowed for spectra submitted to AVSpec.
 ## What should I do instead?
 
 Instead of combining several spectra of the same star into a mosaic, you should **submit each spectrum to AVSpec separately**. That way, the end user has the highest degree of accuracy and flexibility possible.
+
+If you are using an echelle spectrograph, you should use our echelle upload tool.
