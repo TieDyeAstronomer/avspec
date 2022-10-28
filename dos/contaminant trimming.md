@@ -21,3 +21,13 @@ If the contamination covers only a few pixels, like a cosmic ray, hot pixel, or 
 ###### IMAGE: Side-by-side example of a spectrum impacted by a background star, before and after contaminant removal.
 
 On the other hand, if a large region of the spectrum is contaminated, you should instead try to address the root cause of the issue. Is there a light leak? Do you need to apply darks? What about background subtraction? If you are unable to fix the root cause, but are absolutely certain that the rest of the spectrum is uncontaminated, you may salvage the uncontaminated part of the data by cropping. This should not be a regular occurance.
+
+## Tutorial
+
+### The bottom line:
+
+Your goal is to remove all of the pixels which are affected by the contamination, while removing as few uncontaminated pixels as possible.
+
+### BASS
+
+### RSpec
