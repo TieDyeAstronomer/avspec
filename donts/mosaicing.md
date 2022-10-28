@@ -4,6 +4,8 @@ Mosaicing is the process of stitching together multiple pieces of the same spect
 
 ###### IMAGE: Side-by-side comparison of an unmosaiced set of spectra vs. the resulting mosaiced spectrum.
 
+Mosaicing is not allowed for spectra submitted to AVSpec.
+
 ## Why not?
 
 1. Mosaicing is unnecessary for almost all science cases, and if an end user does need a mosaic, they can easily create it themselves.
