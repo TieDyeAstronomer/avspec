@@ -55,3 +55,13 @@ When referring to decisions which have been made about submission criteria, shou
 
 - &#10003; Would unify the voice of the documentation, making it clear that everything referred to definitely applies to AVSpec.
 - &#10007; Makes AVSpec sounds more like an independent project, possibly with its own staff.
+
+## 4. Writing about banned procedures: which wording to use?
+
+When stating that a procedure is not allowed for AVSpec submissions, what wording should be used?
+
+1. "Mosaicing is not allowed."
+2. "Mosaicing is forbidden."
+3. "Mosaicing is banned."
+
+It's probably a good idea to standardize this across the documentation, but we should take care to make sure that whichever we choose works well in sentences of different structure.
