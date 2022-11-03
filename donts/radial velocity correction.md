@@ -1,6 +1,6 @@
 # *Don't:* Radial velocity correction
 
-If your target star is moving towards or away from you, its spectrum will be slightly redshifted or blueshifted. Radial velocity correction removes this redshift or blueshift by editing your spectrum's x-axis after it has already been calibrated. This can be useful in some individual studies, but is a banned procedure for AVSpec.
+If your target star is moving towards or away from you, its spectrum will be slightly redshifted or blueshifted. Radial velocity correction removes this redshift or blueshift. This can be useful in some individual studies, but is a banned procedure for AVSpec.
 
 There are two primary forms of radial velocity correction:
 

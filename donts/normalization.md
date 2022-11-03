@@ -4,6 +4,8 @@ The term "normalization" can have multiple meanings.[^1] When we refer to normal
 
 > ***Normalization*:** the process of dividing a spectrum by its own continuum, so that the shape becomes flat and centered at y=1.
 
+###### IMAGE: Side-by-side of a spectrum before and after normalization.
+
 This process is also known as "continuum rectification".
 
 ## Why not?
