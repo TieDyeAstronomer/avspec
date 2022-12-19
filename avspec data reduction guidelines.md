@@ -12,13 +12,14 @@ These procedures **must** be performed on every spectrum submitted to AVSpec.
 - [Background subtraction](dos/background%20subtraction.md)
 - [Contaminant trimming](dos/contaminant%20trimming.md)
 - [Flat field correction](dos/flats.md) *(slit spectrographs only)*
+- Pseudoflat correction - camera sensor pixel-to-pixel variations only *(slitless only)*
+- [Dark frame correction](dos/darks.md)
 
 ## Recommended
 
 The AAVSO recommends that you perform these procedures on every spectrum you submit to AVSpec. Doing so will allow your spectrum to be marked as 'Recommended' within the database.
 
 - [Instrument response correction](dos/instrument%20response%20correction.md)
-- [Dark frame correction](dos/darks.md)
 - [Stacking](dos/stacking.md)
 - Dithering *(slitless only)*
 
